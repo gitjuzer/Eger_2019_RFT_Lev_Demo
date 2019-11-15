@@ -4,6 +4,8 @@ XXX projekt Követelményspecifikáció
 Cégünk autókölcsönzés szolgáltatással foglalkozik. 
 
 2. Jelenlegi helyzet
+Jelenleg csak papír alapon dolgozunk. A gépjárművek és az ügyfelek adatait is papíron tároljuk. Az ügyfelek telefonon vagy személyesen érdeklődhetnek.
+...
 
 3. Vágyálom rendszer
 

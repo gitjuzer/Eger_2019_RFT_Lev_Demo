@@ -1,6 +1,7 @@
 XXX projekt Követelményspecifikáció
 
 1. Bevezetés
+Cégünk autókölcsönzés szolgáltatással foglalkozik. 
 
 2. Jelenlegi helyzet
 

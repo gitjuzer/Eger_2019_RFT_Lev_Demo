@@ -1,7 +1,7 @@
 XXX projekt Követelményspecifikáció
 
 1. Bevezetés
-Cégünk autókölcsönzés szolgáltatással foglalkozik. 
+Cégünk autókölcsönzés szolgáltatással foglalkozik. A hagyományos mód mellett szeretnénk az informatikai eszközök nyújtotta lehetőségeket is kihasználni, és bővíteni a szolgáltatásunkat.
 
 2. Jelenlegi helyzet
 Jelenleg csak papír alapon dolgozunk. A gépjárművek és az ügyfelek adatait is papíron tároljuk. Az ügyfelek telefonon vagy személyesen érdeklődhetnek.

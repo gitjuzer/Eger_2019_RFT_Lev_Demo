@@ -8,4 +8,5 @@ Jelenleg csak papír alapon dolgozunk. A gépjárművek és az ügyfelek adatait
 ...
 
 3. Vágyálom rendszer
+Cél egy olyan informatikai rendszer létrehozása, amely az adminisztrációt is támogatja, valamint web felületen keresztül az ügyfelek érdeklődését és akár az autók kölcsönzését is.
 

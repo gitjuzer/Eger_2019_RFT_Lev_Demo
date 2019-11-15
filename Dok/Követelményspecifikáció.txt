@@ -8,4 +8,4 @@ Jelenleg csak papír alapon dolgozunk. A gépjárművek és az ügyfelek adatait
 ...
 
 3. Vágyálom rendszer
-
+Web és mobil felülettel rendelkező modern rendszert kell készíteni.
